@@ -1,10 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gabriela M. Balisacan
 =============================================================================================================================================
 
+<br>
+
 * 🖥️  See my portfolio at [ichiyan.github.io/dev-portfolio](http://ichiyan.github.io/dev-portfolio)
 * ✉️  You can contact me at [gabrielambalisacan01@gmail.com](mailto:gabrielambalisacan01@gmail.com)
 * 🧠  I'm learning Data Science
 * ⚡  Interested in neuroscience, robotics
+
+<br>
 
 ### Skills
 
