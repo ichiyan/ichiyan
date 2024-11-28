@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🖥️  See my portfolio at [ichiyan.github.io/dev-portfolio](http://ichiyan.github.io/dev-portfolio)
 * ✉️  You can contact me at [gabrielambalisacan01@gmail.com](mailto:gabrielambalisacan01@gmail.com)
 * 🧠  I'm learning Data Science
-* ⚡  Interested in neuroscience, robotics
+* ⚡  Interested in neuroscience, AI in medicine, robotics
 
 <br>
 
