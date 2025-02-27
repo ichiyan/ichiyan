@@ -3,9 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <br>
 
-* 🖥️  See my portfolio at [ichiyan.github.io/dev-portfolio](http://ichiyan.github.io/dev-portfolio)
-* ✉️  You can contact me at [gabriela.mbalisacan01@gmail.com](mailto:gabriela.mbalisacan01@gmail.com)
-* 🧠  I'm learning Data Science
+* 🖥️  I'm a software developer. See my portfolio at [ichiyan.github.io/dev-portfolio](http://ichiyan.github.io/dev-portfolio).
+* ✉️  You can contact me at [gabriela.mbalisacan01@gmail.com](mailto:gabriela.mbalisacan01@gmail.com).
+* 🧠  I'm learning Data Science.
 * ⚡  Interested in computational neuroscience, AI in medicine, robotics
 
 <br>
